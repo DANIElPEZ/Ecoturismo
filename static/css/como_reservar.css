@@ -107,7 +107,7 @@
 .step-img {
     width: 450px;
     height: 350px;
-    object-fit: cover;
+    object-fit: contain;
     border-radius: 8px;
     border: 2px solid #ffb300; 
     transition: transform 0.4s ease;
